@@ -1,0 +1,15 @@
+export const T = {
+  bg: '#0a0e1a',
+  panel: 'rgba(10, 16, 32, 0.72)',
+  panelBorder: 'rgba(120, 180, 255, 0.28)',
+  cyan: '#4FC3F7',
+  blue: '#2D7DFF',
+  yellow: '#FFD54A',
+  green: '#39D98A',
+  orange: '#FF9F43',
+  white: '#F5F8FF',
+  dim: 'rgba(220, 232, 255, 0.62)',
+  glow: '0 0 24px rgba(45, 125, 255, 0.35), 0 0 60px rgba(45, 125, 255, 0.18)',
+  fontCN: "'Noto Sans SC', 'Microsoft YaHei', sans-serif",
+  fontEN: "'Rajdhani', 'Segoe UI', sans-serif",
+};
