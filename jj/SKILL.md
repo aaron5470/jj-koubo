@@ -18,6 +18,8 @@ Require:
 
 Do not require an API key. Do not upload private media to an external service unless the user explicitly authorizes it.
 
+Resolve bundled scripts and assets relative to the directory containing this `SKILL.md`. Never assume a Codex-, Claude Code-, or vendor-specific installation root.
+
 ## Create the project
 
 Inspect the source first:
@@ -110,4 +112,3 @@ Before delivery, verify:
 - the preview and final output have the expected resolution, frame rate, duration, and audio stream
 
 Report the output paths, resolution, duration, and the files changed. Do not claim the render succeeded until ffprobe confirms the final file.
-
