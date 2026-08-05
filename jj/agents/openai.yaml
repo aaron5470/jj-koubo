@@ -1,4 +1,4 @@
 interface:
-  display_name: "JJ 口播剪辑"
-  short_description: "用 Remotion 包装真人口播视频，生成字幕、章节卡与信息卡"
-  default_prompt: "Use $jj 按两阶段流程剪辑这段真人口播视频，先输出 1080p 预览。"
+  display_name: "Media Workflow Lab"
+  short_description: "用于媒体工作流实验与本地渲染的历史版本"
+  default_prompt: "Use $jj to process the provided media with a review-first local workflow."

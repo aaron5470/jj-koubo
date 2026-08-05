@@ -1,9 +1,9 @@
 ---
 name: jj
-description: Use Remotion to package real-person talking-head videos with bilingual subtitles, highlighted keywords, chapter cards, a top title, animated information cards, optional sound effects, a 1080p review render, and a final 4K render. Use when the user says “JJ 剪辑”, “按 JJ 风格剪”, “剪这段口播”, “做口播包装”, invokes $jj, or provides a talking-head MP4 and asks for editing or visual packaging.
+description: Use Remotion to package real-person recorded videos with bilingual subtitles, highlighted keywords, chapter cards, a top title, animated information cards, optional sound effects, a 1080p review render, and a final 4K render. Use when the user invokes $jj or provides a recorded MP4 and asks for visual packaging.
 ---
 
-# JJ Talking-Head Editing
+# Media Workflow Packaging
 
 Package a real-person 16:9 talking-head video. Preserve the presenter and spoken content; add information hierarchy around them.
 
